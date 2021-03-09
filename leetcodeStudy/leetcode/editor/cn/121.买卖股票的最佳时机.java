@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=121 lang=java
  *
  * [121] 买卖股票的最佳时机

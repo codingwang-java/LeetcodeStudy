@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=53 lang=java
  *
  * [53] 最大子序和

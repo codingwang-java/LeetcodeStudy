@@ -1,8 +1,11 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=118 lang=java
  *
  * [118] 杨辉三角
  */
+
+import java.util.ArrayList;
+import java.util.List;
 
 // @lc code=start
 class Solution {

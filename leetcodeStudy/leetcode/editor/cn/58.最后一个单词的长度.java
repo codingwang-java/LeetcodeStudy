@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=58 lang=java
  *
  * [58] 最后一个单词的长度

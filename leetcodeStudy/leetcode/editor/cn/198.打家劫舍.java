@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=198 lang=java
  *
  * [198] 打家劫舍

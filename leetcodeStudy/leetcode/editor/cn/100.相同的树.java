@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=100 lang=java
  *
  * [100] 相同的树

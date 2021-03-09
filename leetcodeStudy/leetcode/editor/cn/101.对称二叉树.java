@@ -1,3 +1,5 @@
+package leetcode.editor.cn;
+
 import javax.swing.tree.TreeNode;
 
 /*

@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=119 lang=java
  *
  * [119] 杨辉三角 II

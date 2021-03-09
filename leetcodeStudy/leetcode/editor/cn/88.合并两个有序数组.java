@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=88 lang=java
  *
  * [88] 合并两个有序数组

@@ -1,4 +1,4 @@
-/*
+package leetcode.editor.cn;/*
  * @lc app=leetcode.cn id=111 lang=java
  *
  * [111] 二叉树的最小深度
